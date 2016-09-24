@@ -4,18 +4,18 @@
     "TxlSecret"  : "__PPxmJi1XEMlFjVSzD4wCG4hOwMccoxavX7czHRyEw",
     "AppsConfig" : [
     	{ 
-            "AppDesc": "hr应用",        		
-			"AgentId": 1000002,
-			"Secret" : "KoebVc562oLB05tWgjppgAidPtqrgoC2naLT56J-v34",
-			"Token"  : "4j1Zh5czdXlvp",
-			"EncodingAESKey":"ipxzfjAQC9msfbJgixmmhbp6JvLMQVOx7kVS0khhLhR"            
+            "AppDesc": "应用1的描述",        		
+			"AgentId": 1000001,
+			"Secret" : "应用1的密钥，在管理后台查看",
+			"Token"  : "应用1回调模式的Token，在应用的回调模式里面设置",
+			"EncodingAESKey":"应用1回调模式的加密串，在应用的回调模式里面设置"            
     	},
         { 
-            "AppDesc": "福利应用",              
-            "AgentId": 1000007,
-            "Secret" : "sZsmaDpYCd6F8KOlQYCBNcVhK-bVMTWPj0tklBeIW2A",
-            "Token"  : "4j1Zh5czdXlvp",
-            "EncodingAESKey":"ipxzfjAQC9msfbJgixmmhbp6JvLMQVOx7kVS0khhLhR"            
+            "AppDesc": "应用2的描述",               
+            "AgentId": 1000002,
+            "Secret" : "应用2的密钥，在管理后台查看",
+            "Token"  : "应用2回调模式的Token，在应用的回调模式里面设置",
+            "EncodingAESKey":"应用2回调模式的加密串，在应用的回调模式里面设置"            
         }
     ]
 }
