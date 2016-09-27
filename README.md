@@ -41,5 +41,7 @@ OpenApiSample/
  3. 运行devtools/devtool.php可以了解并调试所有的接口调用，代码里面也包含了主要的业务处理逻辑，可以作为开发时的参考
  4. 运行example目录下的示例文件，修改参数查看程序的运行结果
 
+### 意见反馈
 
+如果有意见反馈或者功能建议，欢迎创建 [Issue](https://github.com/wxwork/OpenApiSample/issues) 或发送 [Pull Request](https://github.com/wxwork/OpenApiSample/pulls)，感谢你的支持和贡献。
 
